@@ -2,10 +2,10 @@ import Image from 'next/image';
 import styles from './styles.module.css';
 
 const images = [
-  '/foto 6.jpg',
-  '/foto 7.jpeg',
-  '/foto 10.jpg',
-  '/foto 12.jpg',
+  './foto 6.jpg',
+  './foto 7.jpeg',
+  './foto 10.jpg',
+  './foto 12.jpg',
 ];
 
 export default function Home() {
